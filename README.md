@@ -82,7 +82,6 @@ custom-theme/
 
 📧 navneetchinchole04@gmail.com
 
-🔗 GitHub Profile
 
 ---
 
